@@ -70,7 +70,7 @@ a:hover {
   height: 200px;
   width: 200px;
   position: absolute;
-  right: 300px;
+  right: 200px;
   top: 0;
 }
 
@@ -78,7 +78,7 @@ a:hover {
   height: 200px;
   width: 200px;
   position: absolute;
-  left: 300px;
+  left: 200px;
   bottom: 350px;
 }
 
