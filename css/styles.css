@@ -27,12 +27,9 @@ h3 {
 }
 
 hr {
-  border: none;
-  height: 0;
-  width: 5%;
-  border-style: dotted none none;
-  border-color: grey;
-  border-width: 7px;
+  border: dotted #EAF6F6 16px;
+  border-bottom: none;
+  width: 4%;
 }
 
 
